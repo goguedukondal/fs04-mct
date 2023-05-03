@@ -5,7 +5,7 @@ function UserDetails() {
     <div className='detail_container'>
      <h1>My GitHub Profile</h1>
      <div className='detail_card'>
-       <img src='https://www.generatormix.com/images/cartoon/tom.jpg' width="100" height="100"/>
+       <img src='' width="100" height="100"/>
        
        <p className='repos'>Repos</p>
        <p className='followers'>Followers</p>
